@@ -55,15 +55,6 @@ git clone https://github.com/philmcminn/com1001.git
 you can copy the command to your clipboard and then paste it into your
 terminal.)
 
-Following this, you need to run an install script to set the box up as needed
-to run these examples:
-
-```console
-com1001/.codio/install
-```
-
-This may take some seconds, maybe even a minute or two, so be patient!
-
 ## 3. Running an Example
 
 To run an example you'll need to change to the directory where it exists as a
