@@ -21,25 +21,25 @@ password, click the "Lost your password?" link and enter your university email
 address (ok, so you didn't lose it, you never had one in the first place —
 but this is how to get one).
 
-Once signed in, click the "My Projects" link under the "BUILD" in the sidebar,
-and click the "New Project" button at the top of the page. This will let you set
+Once signed in, click the **"My Projects"** link under the "BUILD" in the sidebar,
+and click the **"New Project"** button at the top of the page. This will let you set
 up a new virtual machine on Codio that you can use to run Ruby examples and
 develop code for the team project. On Codio, these virtual machines are more
 commonly referred to  "boxes". 
 
-Under "Select your Starting Point" you need to select "Sinatra".
+Under **"Select your Starting Point"** you need to select "Sinatra".
 If it's not there, you need to click "+browse for more". In the search
 box type "sinatra" and press enter. You should then see a bar that says
 "THE UNIVERSITY OF SHEFFIELD/SINATRA". Click on this bar. 
 
-Give your project a name under "Add some details" ("COM1001"
+Give your project a name under **"Add some details"** ("COM1001"
 is just fine, in fact more or less anything is ok, so long as all your projects have unique names).
 
-Ensure "Select hte visibility" is "Private".
+Ensure **"Select the visibility"** is "Private".
 
 If you have an option "Select gigabox", just ignore it. 
  
-You're now ready to create your box by clicking "Create".
+**You're now ready to create your box by clicking "Create".**
 
 ## 2. Setting up and Installing the Repository on Codio
 
