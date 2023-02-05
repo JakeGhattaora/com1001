@@ -3,7 +3,7 @@
 This directory contains the code examples referenced in the lectures that you
 can run on Codio.
 
-**NOTE:** that the first three parts of this README are also covered in the video on Blackboard on the [Getting
+**NOTE:** the contents of this README are also covered in the video on Blackboard on the [Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_6297831_1&course_id=_102787_1&mode=reset)
 page.
 
@@ -37,8 +37,6 @@ is just fine, in fact more or less anything is ok, so long as all your projects 
 
 Ensure **"Select the visibility"** is "Private".
 
-If you have an option "Select gigabox", just ignore it. 
- 
 **You're now ready to create your box by clicking "Create".**
 
 ## 2. Setting up and Installing the Repository on Codio
