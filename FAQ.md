@@ -151,11 +151,16 @@ This is because Codio doesn't think you're logged into Codio on the web browser
 you're trying to use. Open a tab and check you are indeed logged in. If this
 doesn't work, try clearing out your cookies, log into Codio and try again. 
 
+Another reason can be to do with ad-blocking plugins that are either
+installed by default (this seems to be the case with the Brave browser) or
+by the user. Try disabling these and trying Codio again. 
+
 If the issue persists, it's likely an issue with your browser, so try a
-different one. If this still doesn't work, then it might be a machine setting,
-so contact me (or try Codio support). The university's machines should always
-work, so this facility should always be available to you, even if you cannot run
-examples with Codio from your own machine. 
+different one. If this still doesn't work, then it *might* be a machine
+setting (although unlikely). In this case, contact me (or try Codio
+support). The university's machines and loanable laptops should always
+work, so this facility should always be available to you, even if you
+cannot run examples with Codio from your own machine. 
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
