@@ -1,7 +1,7 @@
 # Week 2: Starting to Develop Your Team Web Application
 
 Read this whole page first, then start to tackle each of the tasks. Don't leave
-before doing no. 7 – deciding when and where you're going to meet next as a team.
+before doing no. 6 – deciding when and where you're going to meet next as a team.
 
 ### 1. In your teams, start to think about the architectural design of your web application
 
